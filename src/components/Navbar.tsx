@@ -46,12 +46,22 @@ const Navbar = () => {
 >
         <div className="container mx-auto px-4 flex items-center justify-between" data-aos="fade-up" data-aos-delay="300">
     
-          <Link to="/" className="flex items-center space-x-2">
-           <img src={logo} alt="Logo"  className="w-[150px] h-[150px] -my-10 mr-[-11px] mt-[-30px] rounded-lg object-contain" />
-            <span className="font-league font-bold text-2xl text-pharma-blue">𝐀𝐌𝐀𝐍𝐀𝐇</span>
-            <span className="font-league text-pharma-teal font-bold">𝐂𝐇𝐄𝐌𝐏𝐇𝐀𝐑𝐌</span>
+    
+                    <Link to="/" className="flex items-center space-x-1 sm:space-x-2 flex-shrink-0">
+            <img 
+              src={logo} 
+              alt="Logo"  
+              className="w-[80px] h-[80px] sm:w-[120px] sm:h-[120px] lg:w-[150px] lg:h-[150px] -my-6 sm:-my-8 lg:-my-10 mr-[-8px] sm:mr-[-10px] lg:mr-[-11px] mt-[-20px] sm:mt-[-25px] lg:mt-[-30px] rounded-lg object-contain" 
+            />
+            <div className="flex flex-col sm:flex-row sm:items-center sm:space-x-1">
+              <span className="font-league font-bold text-lg sm:text-xl lg:text-2xl text-pharma-blue leading-tight">
+                𝐀𝐌𝐀𝐍𝐀𝐇
+              </span>
+              <span className="font-league text-pharma-teal font-bold text-sm sm:text-base lg:text-lg leading-tight">
+                𝐂𝐇𝐄𝐌𝐏𝐇𝐀𝐑𝐌
+              </span>
+            </div>
           </Link>
-
           {/* Desktop Navigation */}
           <div className="hidden lg:block">
             <NavigationMenu>

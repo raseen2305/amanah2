@@ -71,7 +71,7 @@ const Footer = () => {
               </div>
               <div className="flex items-start space-x-2" data-aos="fade-right" data-aos-delay="600">
                 <Phone size={16} className="mt-0.5" />
-                <span>+91 70100M43342</span>
+                <span>+91 70100 43342</span>
               </div>
               <div className="flex items-start space-x-2" data-aos="fade-right" data-aos-delay="700">
                 <Mail size={16} className="mt-0.5" />

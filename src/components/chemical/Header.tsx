@@ -47,7 +47,7 @@ const Header = () => {
             data-aos="flip-left"
             data-aos-delay="300"
           >
-            INNOCHEM TRADERS
+            AMANAH CHEMPHARM
           </div>
 
           {/* Desktop Menu */}

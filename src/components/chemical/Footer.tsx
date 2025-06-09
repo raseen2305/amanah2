@@ -25,7 +25,7 @@ const Footer = () => {
           {/* Company Info */}
           <div data-aos="fade-up" data-aos-delay="100">
             <h3 className="text-xl font-bold mb-4" data-aos="flip-left" data-aos-delay="200">
-              INNOCHEM TRADERS
+              AMANAH CHEMPHARM
             </h3>
             <p className="text-gray-400 mb-4" data-aos="zoom-in" data-aos-delay="300">
               Leading chemical trading company providing comprehensive solutions for industrial needs.
@@ -67,15 +67,15 @@ const Footer = () => {
             <div className="space-y-3 text-gray-400 text-sm">
               <div className="flex items-start space-x-2" data-aos="fade-right" data-aos-delay="500">
                 <MapPin size={16} className="mt-0.5" />
-                <span>Mumbai, Maharashtra, India</span>
+                <span>59-47-A KRISHNAMACHARI ROAD VIRUDHUNAGAR,-626001, India</span>
               </div>
               <div className="flex items-start space-x-2" data-aos="fade-right" data-aos-delay="600">
                 <Phone size={16} className="mt-0.5" />
-                <span>+91 9876543210</span>
+                <span>+91 70100M43342</span>
               </div>
               <div className="flex items-start space-x-2" data-aos="fade-right" data-aos-delay="700">
                 <Mail size={16} className="mt-0.5" />
-                <span>info@innochemtraders.com</span>
+                <span>info@amanahchempharm.com</span>
               </div>
             </div>
           </div>
@@ -84,7 +84,7 @@ const Footer = () => {
           className="border-t border-gray-800 mt-10 pt-6 text-center text-gray-400 text-sm"
           data-aos="zoom-out" data-aos-delay="800"
         >
-          <p>&copy; 2024 Innochem Traders. All rights reserved.</p>
+          <p>&copy; 2025 Amanah Chempharm. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -39,7 +39,7 @@ const EnquirySection = () => {
     const templateParams = {
       from_name: formData.name,
       reply_to: formData.email,  // This ensures replies go to the customer
-      to_name: "thoshifraseen4@gmail.com",  // Your company name in the email
+      to_name: "info@amanahchempharm.com",  // Your company name in the email
       customer_email: formData.email,
       phone_number: formData.phone,
       company_name: formData.company,

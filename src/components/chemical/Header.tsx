@@ -51,13 +51,13 @@ const Header = () => {
           </div>
 
           {/* Desktop Menu */}
-          <div
+{/*           <div
             className="hidden md:block text-blue-900 font-medium text-lg cursor-pointer hover:underline"
             data-aos="slide-left"
             data-aos-delay="500"
           >
             Our Solutions
-          </div>
+          </div> */}
 
           {/* Mobile Hamburger */}
           <div className="md:hidden">

@@ -18,7 +18,7 @@ const ConsultingServices = () => {
           <div data-aos="fade-right" data-aos-delay="200">
             <h2 className="text-4xl font-bold text-gray-900 mb-8">Consulting Services</h2>
             <p className="text-gray-600 text-lg leading-relaxed">
-              INNOCHEM TRADERS experts offer advice and support in key segments in Oil & Gas Industry. Our team of professionals with decades of experience and exposure towards upstream and downstream operations closely work with our customers in an independent manner using their insights into developments and will always remain result oriented. We provide short-term and long-term project assistance based on requirements.
+              AMANAH CHEMPHARM experts offer advice and support in key segments in Oil & Gas Industry. Our team of professionals with decades of experience and exposure towards upstream and downstream operations closely work with our customers in an independent manner using their insights into developments and will always remain result oriented. We provide short-term and long-term project assistance based on requirements.
             </p>
           </div>
 

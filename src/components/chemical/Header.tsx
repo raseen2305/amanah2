@@ -25,15 +25,15 @@ const Header = () => {
           <div className="flex flex-col sm:flex-row sm:items-center space-y-1 sm:space-y-0 sm:space-x-4">
             <div className="flex items-center space-x-1" data-aos="fade-right" data-aos-delay="200">
               <Phone size={14} />
-              <span>+91 9876543210</span>
+              <span>+91 70100 43342</span>
             </div>
             <div className="flex items-center space-x-1" data-aos="fade-left" data-aos-delay="300">
               <Mail size={14} />
-              <span>info@innochemtraders.com</span>
+              <span>info@amanahchempharm.com</span>
             </div>
           </div>
           <div className="text-center md:text-right" data-aos="zoom-in-down" data-aos-delay="400">
-            <span>Welcome to Innochem Traders</span>
+            <span>Welcome to Amanah Chempahrm</span>
           </div>
         </div>
       </div>

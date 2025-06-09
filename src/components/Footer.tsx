@@ -143,8 +143,10 @@ const Footer = () => {
           &copy; {new Date().getFullYear()}{" "}
           <a href="/" className="underline hover:text-white/50">
           AMANAH CHEMPHARM <br/>All rights reserved
+          </a>
+          <a className="underline hover:text-white/50">
             Powered by FAVOR
-          </a>. 
+          </a>
           </p>
           </div>
       </div>

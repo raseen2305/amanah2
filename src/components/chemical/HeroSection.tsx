@@ -25,7 +25,7 @@ const HeroSection = () => {
           data-aos="zoom-in-up"
           data-aos-delay="400"
         >
-          Innochem Traders helps oil & gas operators to increase efficiency and lower costs by designing and engineering drilling fluid additives that accommodate a wide range of drilling environments and demanding applications like HPHT, deep water, shale gas, heavy oil, depleted wells, and etc.
+          Amanah Chempharm helps oil & gas operators to increase efficiency and lower costs by designing and engineering drilling fluid additives that accommodate a wide range of drilling environments and demanding applications like HPHT, deep water, shale gas, heavy oil, depleted wells, and etc.
         </p>
         <div
           className="w-24 h-1 bg-white mx-auto rounded"
